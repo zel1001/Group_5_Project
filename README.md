@@ -1,32 +1,29 @@
 # Group_5_Project #
 ## Carbon Neutral Token ##
 
-TerraCarbon is a platform for carbon credit buyers and sellers to interact in the most meaningful way towards a central goal of improving the planet. Carbon neutrality is a powerful goal to be conquered, overcome and something to be looked back on as a lesson. We will be doing so by creating a fungible token that we will be using as the currency for trade.
+TerraCarbon is a platform that facilitates carbon credit trading, allowing buyers and sellers to interact and contribute to the goal of improving the planet. Our platform introduces a fungible token that serves as the currency for carbon credit trade.
 
 ## Procedure ##
 
-Create a jupyter notebook to identify users’ and their carbon emissions. (pandas, API)
-Define our token specs: Name, symbol, total supply, and decimal places.. 
-Write up a smart contract: Include basic functions of a ERC-20 token, such as transfer, approve, and balanceOf. 
-Deploy the smart contract on Ethereum using Remix IDE.
-Create a user interface: Create a user interface that will enable users to interact with the smart contract and trade carbon credits.(Using React)
-Facilitate carbon credit trading: Create a decentralised exchange (DEX) on the blockchain. DEX can allow users to buy and sell carbon credits using your token.
-Interact with our deployed smart contract to transfer and withdraw funds. 
-Create a video demonstrating all of these steps.
-
+* Create a Jupyter Notebook using pandas and APIs to identify users and their carbon emissions.
+* Define token specifications: Name, symbol, total supply, and decimal places.
+* Write a smart contract with basic ERC-20 token functions (transfer, approve, balanceOf).
+* Deploy the smart contract on Ethereum using Remix IDE.
+* Develop a user interface with React to enable users to interact with the smart contract and trade carbon credits.
+* Create a decentralized exchange (DEX) on the blockchain for carbon credit trading using the token.
+* Interact with the deployed smart contract to transfer and withdraw funds.
+* Produce a video demonstrating the entire process.
 
 ## Why is this important? ##
 
-Using your own tokens for trading carbon credits can provide several advantages over traditional methods of trading. Here are some reasons why:
+Trading carbon credits with our own token offers several advantages over traditional methods:
 
-Lower Transaction Costs: By using your own tokens, you can avoid the transaction fees charged by third-party intermediaries such as banks or exchanges. This can significantly reduce the cost of trading and make it more accessible for smaller investors.
-Faster Settlement: Traditional carbon credit trading can take several days to settle, while using tokens can enable near-instant settlement, making the process faster and more efficient.
-Increased Transparency: Tokens are built on blockchain technology, which provides a tamper-proof ledger that can be easily audited. This can increase transparency in the trading process and help to prevent fraud.
-Improved Liquidity: Tokens can be traded 24/7, which can increase liquidity and make it easier to buy and sell carbon credits.
-More Accessible: By using tokens, carbon credit trading can become more accessible to a wider range of investors, including those in countries where traditional financial systems are not well-established.
-It's important to note that using your own tokens for carbon credit trading may also have some disadvantages, such as the potential for price volatility and the need to ensure that the tokens comply with regulatory requirements. However, with proper planning and execution, using tokens can be a viable option for carbon credit trading.
-
-
+- Lower Transaction Costs: By using your own tokens, you can avoid the transaction fees charged by third-party intermediaries such as banks or exchanges. This can significantly reduce the cost of trading and make it more accessible for smaller investors.
+- Faster Settlement: Traditional carbon credit trading can take several days to settle, while using tokens can enable near-instant settlement, making the process faster and more efficient.
+- Increased Transparency: Tokens are built on blockchain technology, which provides a tamper-proof ledger that can be easily audited. This can increase transparency in the trading process and help to prevent fraud.
+- Improved Liquidity: Tokens can be traded 24/7, which can increase liquidity and make it easier to buy and sell carbon credits.
+- More Accessible: By using tokens, carbon credit trading can become more accessible to a wider range of investors, including those in countries where traditional financial systems are not well-established.
+- It's important to note that using your own tokens for carbon credit trading may also have some disadvantages, such as the potential for price volatility and the need to ensure that the tokens comply with regulatory requirements. However, with proper planning and execution, using tokens can be a viable option for carbon credit trading.
 
 ## ELON INTRODUCTION SCRIPT ##
 
