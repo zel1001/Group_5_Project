@@ -73,6 +73,7 @@ We can also see here in our Ganahce that we were able to mine multiple blocks us
 
 ![image](https://github.com/reidema/Group_5_Project/assets/117589787/40f803fc-770e-4f75-8b4d-85ae45013f53)
 
+Finally we can integrate a more user-friendly user interface for giving basic user information, following is a snippet of code on React.js.
 
 
 
