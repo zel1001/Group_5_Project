@@ -75,7 +75,7 @@ We can also see here in our Ganahce that we were able to mine multiple blocks us
 
 ## User Interface ## 
 We then use React.js to create a user interface for our crypto platform.
-![Image](./Images/Screenshot 2023-05-15 at 4.25.44 PM.jpg)
+![Image](./Images/user_interface.jpg)
 
 
 
