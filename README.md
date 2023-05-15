@@ -46,7 +46,7 @@ Now, I’d like to pass it over to my good friends, Norman, Jenn, Rei, Moh and S
 
 ## Smart Contract and ERC Standard ##
 
-We created a smart contract using remix IDE with the function to mint, transfer, exchange, purchase and check the symbol of the the token
+We created a smart contract using remix IDE with the function to mint, transfer, exchange, purchase and check the symbol of our TerraCarbon token
 
 ![image](https://github.com/reidema/Group_5_Project/assets/117589787/2eea5d3d-00f5-496c-8c68-ffd707500956)
 
