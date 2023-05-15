@@ -1,9 +1,9 @@
-# Group_5_Project
-## Carbon Neutral Token
+# Group_5_Project #
+## Carbon Neutral Token ##
 
 TerraCarbon is a platform for carbon credit buyers and sellers to interact in the most meaningful way towards a central goal of improving the planet. Carbon neutrality is a powerful goal to be conquered, overcome and something to be looked back on as a lesson. We will be doing so by creating a fungible token that we will be using as the currency for trade.
 
-## Procedure
+## Procedure ##
 
 Create a jupyter notebook to identify users’ and their carbon emissions. (pandas, API)
 Define our token specs: Name, symbol, total supply, and decimal places.. 
@@ -15,7 +15,7 @@ Interact with our deployed smart contract to transfer and withdraw funds.
 Create a video demonstrating all of these steps.
 
 
-## Why is this important? 
+## Why is this important? ##
 
 Using your own tokens for trading carbon credits can provide several advantages over traditional methods of trading. Here are some reasons why:
 
@@ -28,7 +28,7 @@ It's important to note that using your own tokens for carbon credit trading may 
 
 
 
-## ELON INTRODUCTION SCRIPT
+## ELON INTRODUCTION SCRIPT ##
 
 Hello FinTech Students,
 
@@ -73,22 +73,18 @@ We can also see here in our Ganahce that we were able to mine multiple blocks us
 
 ![image](https://github.com/reidema/Group_5_Project/assets/117589787/40f803fc-770e-4f75-8b4d-85ae45013f53)
 
+## User Interface ## 
+
+We then use React.js to create a user interface for our crypto platform.
+![Image](./Images/user_interface.jpg)
+
+## Conclusion ## 
+
+In the Carbon Neutral Token project, we have developed a platform for carbon credit trading using our fungible token called TerraCarbon. We started by creating a Jupyter notebook to identify users' carbon emissions. Then, we defined the specifications of our token, including its name, symbol, total supply, and decimal places. We wrote a smart contract using the ERC-20 token standard and deployed it on the Ethereum blockchain using Remix IDE. To enable users to interact with the smart contract, we created a user interface using React.js. In the future, the Carbon Neutral Token project has the potential for market adoption, integration with carbon offset projects, expansion to other blockchain platforms and an enhanced user experience. By pursuing these directions, the Carbon Neutral Token project can continue to contribute to global efforts in mitigating climate change and promoting sustainability.
 
 
+## BACKGROUND ##
 
-
-
-
-
-
-
-
-
-
-
-
-
-# BACKGROUND
 Beginning our project, we wanted to provide some background information on why Carbon Credits are something to be knowledgable about.  We started by using Python to create some graphs on emissions and the population world-wide as well as by country.
 
 The resulting graphs show the increasing population and emissions throughout the world.  
