@@ -50,17 +50,25 @@ Now, I’d like to pass it over to my good friends, Norman, Jenn, Rei, Moh and S
 
 
 
-
-
-
-
-
 # BACKGROUND
+Beginning our project, we wanted to provide some background information on why Carbon Credits are something to be knowledgable about.  We started by using Python to create some graphs on emissions and the population world-wide as well as by country.
 
+The resulting graphs show the increasing population and emissions throughout the world.  
+
+Using this graph, we can review the population increases in every country in the world since 1800.  We used the groupby function to make the graph customizable in the file.
 ![](./Images/01_Population_Graph_Country.png)
+
+Using this graph, we can review the total GHG increases in every country in the world since 1990.  We used the groupby function to make the graph customizable in the file.
 ![](./Images/02_GHG_Graph_Country.png)
-![](./Images/03_Top_30_GHG.png)
+
+To zoom in on certain countries that are the major contributors to greenhouse emisisons, we looked at the top 30 countires in 1990 and again in 2019.
+![](./Images/03_Top_30_GHG_1990.png)
+![](./Images/03_Top_30_GHG_2019.png)
+
+You can also reveiw the total World Population and the World GHG Emissions by reviewing the next couple graphs.
 ![](./Images/04_Population_GHG_Total_Trend.png)
+
+While reseaching the graphs, we used another hvplot function that we did not review in class.  By using the "hvplot.explorer" function, we can take the entire DataFrame and easily review and customize what we would like to see.  This allows you to customize all inputs to the graphs and quickly change the inputs and chart types.
 ![](./Images/05_HVExplorer_Graph.png)
 
 
