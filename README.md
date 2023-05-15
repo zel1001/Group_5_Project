@@ -75,7 +75,8 @@ We can also see here in our Ganahce that we were able to mine multiple blocks us
 
 ## User Interface ## 
 
-We then use React.js to create a user interface for our crypto platform.
+To allow for a seamless interaction with the deployed ERC-20 smart contract, we use React.js. It leverages the useState and useEffect hooks to manage state and perform various actions. This component empowers users by enabling them to input the address of an ERC-20 contract and retrieve essential information like the token's name, symbol, and total supply. Users can also check their account balance of their TerraCarbon tokens and even transfer them to another address.
+
 ![Image](./Images/user_interface.jpg)
 
 ## Conclusion ## 
