@@ -120,8 +120,11 @@ Carbon Footprint API - https://rapidapi.com/carbonandmore-carbonandmore-default/
 
 Hannah Ritchie, Max Roser and Pablo Rosado (2020) - "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-and-greenhouse-gas-emissions' [Online Resource]
 
+D-id for Elon Musk Animation - https://www.d-id.com/?utm_term=d-id&utm_campaign=Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=6149207258&hsa_cam=17780208183&hsa_grp=141566902480&hsa_ad=634015141111&hsa_src=g&hsa_tgt=kwd-369030435047&hsa_kw=d-id&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad=1&gclid=Cj0KCQjwsIejBhDOARIsANYqkD2FT7uHnYIcU7DzPUd8nPzSrVpN7gz-ZL8j9TZrehGsBuGs6iqvpcgaAu1dEALw_wcB
 
+11ElevenLabs for Voice Generator - https://beta.elevenlabs.io/speech-synthesis
 
+Veed.io for subtitles - https://www.veed.io/
 
 
 
