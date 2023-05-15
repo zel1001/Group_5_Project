@@ -44,6 +44,44 @@ Carbon credits can be a useful tool in the fight against climate change, but the
 Now, I’d like to pass it over to my good friends, Norman, Jenn, Rei, Moh and Sujatha to talk more about Carbon Credits and the Smart Contract system they’ve created…
 
 
+## Smart Contract and ERC Standard ##
+
+We created a smart contract using remix IDE with the function to mint, transfer, exchange, purchase and check the symbol of our TerraCarbon token
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/2eea5d3d-00f5-496c-8c68-ffd707500956)
+
+We used ERC 20 standard for minting our token as ERC 20 is the standard for tokens that fungible on the Ethereum Network. We consider our token to be fungible
+becuase each TerraCarbon credit is no different from any other TerraCarbon credit and it can be divided depending on how much you want to buy in the market.
+Each TerraCarbon has a price the is dictated by the market, so depending on the demand between buyers and sellers the market gives a clear price for each unit
+of TerraCarbon. 
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/a6114096-a464-425b-8b64-bef5cc35b2ea)
+
+We then used metamask to interact with our Smart Contract and we were able to link metamask with our smart contract in solidity
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/7044d25d-f19a-469a-afb5-9477cb4eed77)
+
+Here we can see the creaton of our smart contract and confirm our transaction in Ganache
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/7acc6602-c628-4b7d-b84e-c5db7c754c25)
+
+We can use our metamask with our smart contract to interact with the block chain and execute transactions
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/bd911a83-f3a7-42b1-bfc8-8b12292c6ad3)
+
+We can also see here in our Ganahce that we were able to mine multiple blocks using our smart contract
+
+![image](https://github.com/reidema/Group_5_Project/assets/117589787/40f803fc-770e-4f75-8b4d-85ae45013f53)
+
+
+
+
+
+
+
+
+
+
 
 
 
