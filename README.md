@@ -40,7 +40,7 @@ Carbon credits can be a useful tool in the fight against climate change, but the
 
 Now, I’d like to pass it over to my good friends, Norman, Jenn, Rei, Moh and Sujatha to talk more about Carbon Credits and the Smart Contract system they’ve created…
 
-![Elon_Musk_Video](https://github.com/zel1001/Group_5_Project/blob/main/Images/elon_final.png)](https://www.youtube.com/watch?v=AJPvdmYQLwU)
+![Elon_Musk_Video](https://github.com/zel1001/Group_5_Project/blob/main/Images/elon_final.png)](https://www.youtube.com/watch?v=rEMYKjlyqEk)
 
 ## Smart Contract and ERC Standard ##
 
