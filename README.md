@@ -77,6 +77,16 @@ To allow for a seamless interaction with the deployed ERC-20 smart contract, we 
 
 ![Image](./Images/user_interface.jpg)
 
+## API Carbon Footprint Calculator ##
+
+To find the accurate amount of Carbon Credits to distribute for the client. We built an API based calculator where users can input information to 
+calculate their total Carbon Emission Output. Afterwards the total amount of Carbon Emissions will be converted into a value used to determine the individual 
+credit amount the user will receive.  
+
+![Image](https://github.com/zel1001/Group_5_Project/blob/main/Images/calc_example_1.png)
+
+![Image](https://github.com/zel1001/Group_5_Project/blob/main/Images/calc_example_2.png)
+
 ## Conclusion ## 
 
 In the Carbon Neutral Token project, we have developed a platform for carbon credit trading using our fungible token called TerraCarbon. We started by creating a Jupyter notebook to identify users' carbon emissions. Then, we defined the specifications of our token, including its name, symbol, total supply, and decimal places. We wrote a smart contract using the ERC-20 token standard and deployed it on the Ethereum blockchain using Remix IDE. To enable users to interact with the smart contract, we created a user interface using React.js. In the future, the Carbon Neutral Token project has the potential for market adoption, integration with carbon offset projects, expansion to other blockchain platforms and an enhanced user experience. By pursuing these directions, the Carbon Neutral Token project can continue to contribute to global efforts in mitigating climate change and promoting sustainability.
